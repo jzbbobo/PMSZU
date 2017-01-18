@@ -1,5 +1,5 @@
-# The download url of database PMSZU described in our paper "xxxxxx"
+# The download url of PMSZU database described in our paper "xxxxxx"
 ## Google Disk Driver
 URL: http://xxxxxxx
 ## BaiduYun Pan
-URL: http://xxxxxxx
+URL: 链接：http://pan.baidu.com/s/1clCpTc 密码：8qux
